@@ -8,12 +8,12 @@
     "coin_type": "60",
     "min_tx_fee": "100",
     "addr_prefix": "oxzer",
-    "logo": "/logos/oxzer.jpeg",
+    "logo": "/logos/oxzer.jpg",
     "assets": [{
         "base": "udym",
         "symbol": "DYM",
         "exponent": "18",
         "coingecko_id": "",
-        "logo": "/logos/oxzer.jpeg"
+        "logo": "/logos/oxzer.jpg"
     }]
   }

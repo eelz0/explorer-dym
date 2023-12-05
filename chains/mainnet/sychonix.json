@@ -1,19 +1,19 @@
 {
-    "chain_name": "sychonix_4126408-1",
-    "api": ["https://froopyland.dymension.xyz/23/sychonix_4126408-1-a/rest"],
-    "rpc": ["https://froopyland.dymension.xyz/23/sychonix_4126408-1-a/rpc"],
+    "chain_name": "oxzer_3592705-1",
+    "api": ["https://froopyland.dymension.xyz/20/oxzer_3592705-1/rest"],
+    "rpc": ["https://froopyland.dymension.xyz/20/oxzer_3592705-1/rpc"],
     "coingecko": "",
     "snapshot_provider": "",
     "sdk_version": "v0.1.0-rc10",
     "coin_type": "60",
     "min_tx_fee": "100",
-    "addr_prefix": "sychonix",
-    "logo": "/logos/sychonix.jpeg",
+    "addr_prefix": "oxzer",
+    "logo": "/logos/oxzer.jpeg",
     "assets": [{
-        "base": "usynx",
-        "symbol": "SYNX",
+        "base": "udym",
+        "symbol": "DYM",
         "exponent": "18",
         "coingecko_id": "",
-        "logo": "/logos/sychonix.jpeg"
+        "logo": "/logos/oxzer.jpeg"
     }]
   }
